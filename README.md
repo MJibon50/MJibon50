@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-MJibon50/MJibon50 is a ✨ special ✨ repository because its `README.md` (Mjibon50) appears on your GitHub profile.
+MJibon50/MJibon50 is a ✨ special ✨ repository because its `README.md` (MJibon) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
